@@ -13,7 +13,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 2 - turn left.
 3 - turn right.
 
-The task is episodic, and the agent must get an average score of +13 over 100 consecutive episodes.
+The task is episodic, and the agent must get an average score of +13 over 100 consecutive episodes.  The model parameters have been output to DWAM.pth.
 
 ### Getting Started
 Download the environment from one of the links below. You need only select the environment that matches your operating system:
